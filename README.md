@@ -1,4 +1,4 @@
-Redrob LLM Repository
+# Redrob LLM Repository
 This repository contains the code for a Redrob LLM (Large Language Model) implementation, designed to provide a controllable and multilingual reasoning model for real-world usage.
 
 Table of Contents
